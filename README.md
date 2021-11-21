@@ -1,13 +1,11 @@
-# svelte app
+# Svelte app
 
 This is a project template for [Svelte](https://svelte.technology) apps. It lives at https://github.com/sveltejs/template-custom-element.
 
 To create a new project based on this template using [degit](https://github.com/Rich-Harris/degit):
 
 ```bash
-npm install -g degit # you only need to do this once
-
-degit sveltejs/template-custom-element svelte-app
+npx degit craftedsystems/template-custom-element svelte-app
 cd svelte-app
 ```
 
@@ -20,7 +18,7 @@ Install the dependencies...
 
 ```bash
 cd svelte-app
-npm install
+npm i
 ```
 
 ...then start [Rollup](https://rollupjs.org):
